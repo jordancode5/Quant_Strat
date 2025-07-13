@@ -1,4 +1,3 @@
-# trading-strat
 # 🧠 ALPHA | Event-Driven Market Classification & Trading Framework
 
 This repository explores a structured approach to algorithmic trading that blends machine intelligence with human insight — because markets are not just math; they’re behavior.
