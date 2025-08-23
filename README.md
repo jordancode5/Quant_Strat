@@ -7,7 +7,7 @@ While areas like **high-frequency trading** (HFT) are driven purely by machines 
 ## 📌 Philosophy
 
 Markets are composed of **events**, not just prices.  
-A sudden selloff at a high, a tight pullback into support, a fake breakout — these are patterns best recognized through a **human lens**, then formalized into rules that machines can process.
+A sudden selloff at a high, a tight pullback into support, a fake breakout — these are patterns best recognized through a **human lens**, then formalized into rules that machines can process. 
 
 This framework embraces the idea that:
 - The **human role in labeling and defining events** is critical to training smarter systems.
@@ -17,6 +17,7 @@ This framework embraces the idea that:
 ## 📈 Intended Use
 
 This project is built to **classify and score market events across multiple timeframes**:
+- ✅ Find value (not just try to extract it) in the market
 - ✅ Identify trend strength, consolidation, reversal zones
 - ✅ Label institutional behaviors (e.g. spoofing, stop hunts, liquidity traps)
 - ✅ Evaluate signals using 1-min, 5-min, 15-min, and daily chart structure
