@@ -2,7 +2,7 @@
 
 This repository explores a structured approach to algorithmic trading that blends machine intelligence with human insight — because markets are not just math; they’re behavior.
 
-While areas like **high-frequency trading** (HFT) are driven purely by machines reacting to microsecond data, **most retail-accessible strategies require a nuanced understanding of structure, trend, and human psychology**. The intent here is not to automate reaction, but to **enhance interpretation** — to build systems that understand *what kind of market we’re in*, not just whether the RSI crossed 30.
+While areas like **high-frequency trading** (HFT) are driven purely by machines reacting to microsecond data, **most retail-accessible strategies require a nuanced understanding of structure, trend, human psychology, and an assessment of value**. The intent here is not to automate reaction, but to **enhance interpretation** — to build systems that understand *what kind of market we’re in*, not just whether the RSI crossed 30.
 
 ## 📌 Philosophy
 
