@@ -78,3 +78,6 @@ Every strategy—from a simple moving average crossover to advanced machine lear
 
 Without it, trading systems are fragile.  
 With it, they can endure bad luck and survive long enough to benefit from skill.  
+Market regimes change, and even the most sophisticated trading strategies eventually or periodically stop working.
+Save some money and let your account live long enough to trade another day
+
