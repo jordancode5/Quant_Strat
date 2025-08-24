@@ -2,7 +2,7 @@
 
 > ⚠️ **Disclaimer**: Risk management is the most important part of trading and investing.  
 > The first rule is **not to make money**—it is to **protect the money you already have**.  
-> Without disciplined risk management, even the best strategies will eventually fail.  
+> Without first understanding risk, and then maintaining disciplined risk management, even the best strategies will eventually fail.  
 
 ---
 
@@ -19,18 +19,20 @@ Without proper controls, volatility, correlation, and bad luck can erode an acco
 **Volatility** is the statistical measure of price variation over time.  
 
 - 📉 **Negative effects on your account**: Even if the long-term trend is up, wide swings reduce compound returns (the “volatility tax”).  
-- 😟 **Investor confidence**: High volatility signals instability and discourages outside investors.  
+- 😟 **Investor confidence**: High volatility signals instability and discourages outside investors. (Funds would rather welcome someone who is barely beating the market with low volatility than someone who has a high win percentage but is YOLOing their account on options)
 - 💸 **Effective liquidity**: When equity swings heavily, your “usable capital” is uncertain, making it harder to size trades confidently.  
-- 🎲 **Bad luck amplification**: A random streak of losses can wipe out more capital in a volatile account, making recovery exponentially harder.  
+- 🎲 **Bad luck amplification**: A random streak of losses can wipe out more capital in a volatile account, making recovery exponentially harder.
+- 📊 **Limits sample size for evaluation**: If your position sizing is not disciplined, you won't have enough data to evaluate a strategy before you empty your account.
+ *Example*: I test all of my strategies with #1 backtesting, #2 live testing on a paper account, #3 third-party review (yes, seriously!!), and #4 then if and only if the strategy passes all of those hurdles will it make it into my live account to risk only 0.3% of my account for day trades and 2% on a monthly time frame
 
 ---
 
 ## Key Investment Rules  
 
 1. **Preserve capital** – Never risk more than you can afford to lose.  
-2. **Position sizing** – No single trade should ever be able to ruin your account.  
-3. **Diversification** – Spread exposure across *uncorrelated* assets.  
-4. **Defined risk** – Always know your maximum drawdown thresholds.  
+2. **Position sizing** – No single trade should ever be able to ruin your account. (or your mood)
+3. **Diversification** – Spread exposure across *uncorrelated* assets. (Do not buy Nvidia to hedge against your data center stock ticker)
+4. **Defined risk** – Always know your maximum drawdown thresholds. (NO NAKED CALL OR PUT SELLING!)
 
 ---
 
