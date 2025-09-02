@@ -1,6 +1,6 @@
 # Step 0: Risk Management  
 
-> ⚠️ **Disclaimer**: Risk management is the most important part of trading and investing.  
+> ⚠️ **Disclaimer**: Risk management is the most important part of trading AND investing.  
 > The first rule is **not to make money**—it is to **protect the money you already have**.  
 > Without first understanding risk, and then maintaining disciplined risk management, even the best strategies will eventually fail.  
 
